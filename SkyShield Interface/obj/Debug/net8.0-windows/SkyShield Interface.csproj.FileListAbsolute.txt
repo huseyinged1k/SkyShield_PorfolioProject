@@ -1,0 +1,62 @@
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.AssemblyReference.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.ResolveComReference.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield_Interface.MainForm.resources
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.GenerateResource.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.AssemblyInfoInputs.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.AssemblyInfo.cs
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.exe
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.deps.json
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.runtimeconfig.json
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.pdb
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShiel.B943F254.Up2Date
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\refint\SkyShield Interface.dll
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.pdb
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.genruntimeconfig.cache
+C:\Users\Huseyin\Desktop\SkyShield Interface\obj\Debug\net8.0-windows\ref\SkyShield Interface.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.exe
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.deps.json
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.runtimeconfig.json
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\SkyShield Interface.pdb
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Asio.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Core.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Midi.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.AssemblyReference.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.ResolveComReference.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield_Interface.MainForm.resources
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.GenerateResource.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.AssemblyInfoInputs.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.AssemblyInfo.cs
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.csproj.CoreCompileInputs.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShiel.B943F254.Up2Date
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\refint\SkyShield Interface.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.pdb
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.genruntimeconfig.cache
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\ref\SkyShield Interface.dll
