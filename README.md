@@ -59,17 +59,17 @@ Savunma atışları sırasında:
 
 🧰 Kullanılan Teknolojiler
 
-🎮 Unity 2022+ (C#)
+- 🎮 Unity 2022+ (C#)
 
-🖥️ Windows Forms (.NET 8)
+- 🖥️ Windows Forms (.NET 8)
 
-📽️ FFmpeg (gömülü video kaydı)
+- 📽️ FFmpeg (gömülü video kaydı)
 
-🔊 NAudio (alarm sesleri için)
+- 🔊 NAudio (alarm sesleri için)
 
-📡 UDP Socket ile veri iletimi
+- 📡 UDP Socket ile veri iletimi
 
-📄 JSON ile veri formatlama ve kayıt
+- 📄 JSON ile veri formatlama ve kayıt
 
 ---
 
