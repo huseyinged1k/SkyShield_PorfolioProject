@@ -85,18 +85,18 @@ Savunma atışları sırasında:
 
 - Savunma atışları gerçekleştiğinde:
 
-	Unity FFmpeg ile video kaydeder.
+-	Unity FFmpeg ile video kaydeder.
 
-	UDP üzerinden veri aktarımı yapılır.
+-	UDP üzerinden veri aktarımı yapılır.
 
-	Form arayüzü tehditleri listeler ve alarm verir.
+-	Form arayüzü tehditleri listeler ve alarm verir.
 
 ---
 
 🎯 Amaç ve Hedefler
 
-Gerçek zamanlı sistem senaryoları kurmak
+- Gerçek zamanlı sistem senaryoları kurmak
 
-C# dilinde hem oyun hem de masaüstü uygulama geliştirme becerilerini göstermek
+- C# dilinde hem oyun hem de masaüstü uygulama geliştirme becerilerini göstermek
 
-Temiz kodlama, yazılım mimarisi, uygulamalar arası haberleşme ve multimedya entegrasyonunu bir arada sunmak
+- Temiz kodlama, yazılım mimarisi, uygulamalar arası haberleşme ve multimedya entegrasyonunu bir arada sunmak
