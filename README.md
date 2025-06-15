@@ -8,11 +8,13 @@ Proje iki ana modülden oluşur:
 
 - 🖥️ C# Windows Forms ile geliştirilen **Gözetim ve Log Arayüzü**
 
+---
+
 ├── Air Defense Simulation/         ← Unity (Modül 1) 
 
 ├── SkyShieldInterface/      ← Windows Forms (Modül 2)
 
-
+---
 
 🎮 Unity Simülasyonu
 
@@ -26,7 +28,7 @@ Proje iki ana modülden oluşur:
 
 - Tüm veriler (zaman, id, tür) UDP üzerinden aktarılır.
 
-
+---
 
 🖥️ Windows Forms Arayüzü
 
@@ -36,12 +38,13 @@ Tehdit bilgilerini gerçek zamanlı listeler (zaman,id, tür).
 
 Her log log_archive.json dosyasına yazılır.
 
-Angajman durumlarında:
+Savunma atışları sırasında:
 
 🔊 NAudio ile alarm.wav çalınır.
 
 🎥 Video kaydı tamamlandığında gösterilir.
 
+---
 
 | Alan                       | Uygulama / Desen                                  |
 | -------------------------- | ------------------------------------------------- |
@@ -52,6 +55,7 @@ Angajman durumlarında:
 | **Senkronizasyon**         | ⏱ FPS uyumlu frame capture + async akış           |
 | **Ses Yönetimi**           | 🧰 `NAudio` ile platformdan bağımsız ses çalma    |
 
+---
 
 🧰 Kullanılan Teknolojiler
 
@@ -67,28 +71,30 @@ Angajman durumlarında:
 
 📄 JSON ile veri formatlama ve kayıt
 
-
+---
 
 🚀 Kurulum ve Çalıştırma
 
-Unity projesini "Air Defense Simulation" klasöründen açın.
+- Unity projesini "Air Defense Simulation" klasöründen açın.
 
-ffmpeg.exe dosyasının StreamingAssets klasöründe olduğundan emin olun.
+- ffmpeg.exe dosyasının StreamingAssets klasöründe olduğundan emin olun.
 
-Unity'den simülasyonu başlatın.
+- Unity'den simülasyonu başlatın.
 
-Aynı anda "SkyShieldInterface" Windows Forms uygulamasını çalıştırın.
+- Aynı anda "SkyShieldInterface" Windows Forms uygulamasını çalıştırın.
 
-Savunma atışları gerçekleştiğinde:
+- Savunma atışları gerçekleştiğinde:
 
-Unity FFmpeg ile video kaydeder.
+	Unity FFmpeg ile video kaydeder.
 
-UDP üzerinden veri aktarımı yapılır.
+	UDP üzerinden veri aktarımı yapılır.
 
-Form arayüzü tehditleri listeler ve alarm verir.
+	Form arayüzü tehditleri listeler ve alarm verir.
 
+---
 
 🎯 Amaç ve Hedefler
+
 Gerçek zamanlı sistem senaryoları kurmak
 
 C# dilinde hem oyun hem de masaüstü uygulama geliştirme becerilerini göstermek
