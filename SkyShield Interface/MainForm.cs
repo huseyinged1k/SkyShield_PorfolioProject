@@ -1,5 +1,7 @@
+using Newtonsoft.Json;
 using SkyShield_Interface.Models;
 using SkyShield_Interface.Presenters;
+using SkyShield_Interface.Services;
 using SkyShield_Interface.Views;
 using System.Diagnostics;
 
@@ -8,23 +10,26 @@ namespace SkyShield_Interface
     public partial class MainForm : Form, IMainView
     {
         private MainPresenter presenter;
+        public event Action<ThreatLog> OnLogReceived;
+        private LogArchiveService archiveService;
 
-        public MainForm()
-        {
-            InitializeComponent();
-        }
-
-        private void openLogFolder(object sender, EventArgs e)
-        {
-            
-            string logPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+        string logPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
                 "..",
                 "LocalLow",
                 "DefaultCompany",
                 "Air Defense Simulation");
 
-            string fullPath = Path.GetFullPath(logPath);
+        string fullPath;
+        public MainForm()
+        {
+            InitializeComponent();
+            fullPath = Path.GetFullPath(logPath);
 
+            LoadSimulationLogs();
+        }
+
+        private void openLogFolder(object sender, EventArgs e)
+        {
             if (Directory.Exists(fullPath))
             {
                 Process.Start("explorer.exe", fullPath);
@@ -32,6 +37,28 @@ namespace SkyShield_Interface
             else
             {
                 MessageBox.Show("Klasör bulunamadý:\n" + fullPath, "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void LoadSimulationLogs()
+        {
+            string logFilePath = Path.Combine(fullPath, "sim_logs.json");
+
+            if (File.Exists(logFilePath))
+            {
+                string json = File.ReadAllText(logFilePath);
+
+                var logs = JsonConvert.DeserializeObject<List<ThreatLog>>(json);
+
+                if (logs != null)
+                {
+                    foreach (var log in logs)
+                    { 
+                        defenseLogs.Rows.Add(
+                            log.Timestamp,
+                            log.Event);
+                    }
+                }
             }
         }
     }

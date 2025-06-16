@@ -36,7 +36,7 @@ namespace SkyShield_Interface
             eventDataGridViewTextColumn = new DataGridViewTextBoxColumn();
             btnPlayVideo = new Button();
             mediaPlayer = new AxWMPLib.AxWindowsMediaPlayer();
-            button1 = new Button();
+            openLogFolderButton = new Button();
             ((System.ComponentModel.ISupportInitialize)defenseLogs).BeginInit();
             ((System.ComponentModel.ISupportInitialize)mediaPlayer).BeginInit();
             SuspendLayout();
@@ -80,23 +80,24 @@ namespace SkyShield_Interface
             mediaPlayer.OcxState = (AxHost.State)resources.GetObject("mediaPlayer.OcxState");
             mediaPlayer.Size = new Size(1040, 372);
             mediaPlayer.TabIndex = 2;
+           
             // 
-            // openlogfolder button
+            // openLogFolderButton
             // 
-            button1.Location = new Point(915, 526);
-            button1.Name = "openLogFolder";
-            button1.Size = new Size(142, 70);
-            button1.TabIndex = 3;
-            button1.Text = "OPEN RECORDING FOLDER";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += openLogFolder;
+            openLogFolderButton.Location = new Point(915, 526);
+            openLogFolderButton.Name = "openLogFolderButton";
+            openLogFolderButton.Size = new Size(142, 70);
+            openLogFolderButton.TabIndex = 3;
+            openLogFolderButton.Text = "OPEN RECORDING FOLDER";
+            openLogFolderButton.UseVisualStyleBackColor = true;
+            openLogFolderButton.Click += openLogFolder;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1095, 622);
-            Controls.Add(button1);
+            Controls.Add(openLogFolderButton);
             Controls.Add(mediaPlayer);
             Controls.Add(btnPlayVideo);
             Controls.Add(defenseLogs);
@@ -137,6 +138,6 @@ namespace SkyShield_Interface
         public AxWMPLib.AxWindowsMediaPlayer mediaPlayer;
         private DataGridViewTextBoxColumn timeDataGridViewTextColumn;
         private DataGridViewTextBoxColumn eventDataGridViewTextColumn;
-        private Button button1;
+        private Button openLogFolderButton;
     }
 }

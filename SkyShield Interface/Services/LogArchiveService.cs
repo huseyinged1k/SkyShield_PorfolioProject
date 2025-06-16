@@ -6,7 +6,7 @@ namespace SkyShield_Interface.Services
 {
     public class LogArchiveService
     {
-        private readonly string archivePath;
+        public readonly string archivePath;
 
         public LogArchiveService()
         {
