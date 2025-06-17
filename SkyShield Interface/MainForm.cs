@@ -4,6 +4,7 @@ using SkyShield_Interface.Presenters;
 using SkyShield_Interface.Services;
 using SkyShield_Interface.Views;
 using System.Diagnostics;
+using System.Text;
 
 namespace SkyShield_Interface
 {
@@ -47,16 +48,14 @@ namespace SkyShield_Interface
             if (File.Exists(logFilePath))
             {
                 string json = File.ReadAllText(logFilePath);
-
+                
                 var logs = JsonConvert.DeserializeObject<List<ThreatLog>>(json);
 
                 if (logs != null)
                 {
                     foreach (var log in logs)
                     { 
-                        defenseLogs.Rows.Add(
-                            log.Timestamp,
-                            log.Event);
+                        DisplayLog(log);
                     }
                 }
             }
