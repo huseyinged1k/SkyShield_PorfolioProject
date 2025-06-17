@@ -32,17 +32,19 @@ Proje iki ana modülden oluşur:
 
 🖥️ Windows Forms Arayüzü
 
-Unity tarafından gönderilen UDP verilerini dinler.
+- Unity tarafından gönderilen UDP verilerini dinler.
 
-Tehdit bilgilerini gerçek zamanlı listeler (zaman,id, tür).
+- Tehdit bilgilerini gerçek zamanlı listeler (zaman,id, tür).
 
-Her log log_archive.json dosyasına yazılır.
+- Her log log_archive.json dosyasına yazılır.
 
-Savunma atışları sırasında:
+- Savunma atışları sırasında:
 
-🔊 NAudio ile alarm.wav çalınır.
+- 🔊 NAudio ile alarm.wav çalınır.
 
-🎥 Video kaydı tamamlandığında gösterilir.
+- 🎥 Video kaydı tamamlandığında gösterilir.
+
+- Kullanıcı arayüzünden log ve video klasörlerine kolay erişim sağlanır.
 
 ---
 
