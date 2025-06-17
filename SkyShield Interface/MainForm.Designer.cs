@@ -108,28 +108,7 @@ namespace SkyShield_Interface
             ResumeLayout(false);
         }
 
-        private void btnPlayVideo_Click(object sender, EventArgs e)
-        {
-            presenter?.PlayLastVideo();
-        }
-
-        public void DisplayLog(ThreatLog log)
-        {
-            if (InvokeRequired)
-            {
-                Invoke(new Action(() => DisplayLog(log)));
-                return;
-            }
-
-            defenseLogs.Rows.Add(
-                log.Timestamp,
-                log.Event);
-        }
-
-        public void SetPresenter(MainPresenter presenter)
-        {
-            this.presenter = presenter;
-        }
+        
 
         #endregion
 

@@ -13,7 +13,7 @@ public class UdpLoggerSender : MonoBehaviour, ILogObserver
 
     public void OnLogEvent(string message)
     {
-        string payload = $"{{ \"timestamp\": \"{System.DateTime.Now:O}\", \"event\": \"{message}\" }}";
+        string payload = $"{{ \"time\": \"{System.DateTime.Now:O}\", \"event\": \"{message}\" }}";
         byte[] data = Encoding.UTF8.GetBytes(payload);
         client.Send(data, data.Length, "127.0.0.1", 9000);
     }

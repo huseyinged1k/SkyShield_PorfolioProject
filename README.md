@@ -77,13 +77,13 @@ Proje iki ana modülden oluşur:
 
 🚀 Kurulum ve Çalıştırma
 
-- Unity projesini "Air Defense Simulation" klasöründen açın.
+- Önce "SkyShield Interface" klasöründen veya derlenmiş halinin yer aldığı "SkyShield Interface_Build" klasöründeki .exe dosyasından arayüz uygulamasını çalıştırın.
+
+- Unity projesini "Air Defense Simulation" klasöründen veya derlenmiş hali olan "Air Defense Simulation_Build" klasöründen açın.
 
 - ffmpeg.exe dosyasının StreamingAssets klasöründe olduğundan emin olun.
 
 - Unity'den simülasyonu başlatın.
-
-- Aynı anda "SkyShieldInterface" Windows Forms uygulamasını çalıştırın.
 
 - Savunma atışları gerçekleştiğinde:
 

@@ -12,7 +12,6 @@ namespace SkyShield_Interface
     {
         private MainPresenter presenter;
         public event Action<ThreatLog> OnLogReceived;
-        private LogArchiveService archiveService;
 
         string logPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
                 "..",
@@ -59,6 +58,29 @@ namespace SkyShield_Interface
                     }
                 }
             }
+        }
+
+        private void btnPlayVideo_Click(object sender, EventArgs e)
+        {
+            presenter?.PlayLastVideo();
+        }
+
+        public void DisplayLog(ThreatLog log)
+        {
+            if (InvokeRequired)
+            {
+                Invoke(new Action(() => DisplayLog(log)));
+                return;
+            }
+
+            defenseLogs.Rows.Add(
+                log.Timestamp,
+                log.Event);
+        }
+
+        public void SetPresenter(MainPresenter presenter)
+        {
+            this.presenter = presenter;
         }
     }
 }

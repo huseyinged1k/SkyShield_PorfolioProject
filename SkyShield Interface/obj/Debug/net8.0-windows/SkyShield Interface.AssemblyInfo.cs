@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyShield Interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e37e346332559745388f8b4f2ab7f7e90428238c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11554f901b6cfc4e69dc47508ab6e4eec517e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyShield Interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyShield Interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

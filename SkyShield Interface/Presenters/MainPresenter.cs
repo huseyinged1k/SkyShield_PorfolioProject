@@ -12,9 +12,7 @@ namespace SkyShield_Interface.Presenters
         private readonly LogArchiveService archiveService;
         private readonly AlarmService alarmService;
 
-        string alarmPath = Path.Combine(
-            Directory.GetParent(AppDomain.CurrentDomain.BaseDirectory)
-            .Parent.Parent.Parent.FullName,"Media", "alarm.wav");
+        string alarmPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"Media", "alarm.wav");
 
         public MainPresenter(IMainView view)
         {

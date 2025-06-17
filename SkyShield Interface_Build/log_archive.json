@@ -1,0 +1,285 @@
+[
+{
+  "Timestamp": "2025-06-15T20:25:45.9059466+03:00",
+  "Event": "Threat engaged: 9006504d-7c51-44e5-a4aa-ac45575693db"
+},
+{
+  "Timestamp": "2025-06-15T20:28:59.7903359+03:00",
+  "Event": "Threat engaged: 2bbff5e1-0de0-4ea6-8005-8c3015912ea9"
+},
+{
+  "Timestamp": "2025-06-15T20:29:03.1835861+03:00",
+  "Event": "Threat engaged: 4e358408-0134-44f0-899a-d1a0dce33772"
+},
+{
+  "Timestamp": "2025-06-15T20:29:04.9110251+03:00",
+  "Event": "Threat engaged: 8b43e47a-ca79-4ffb-8fb6-21c04b6975a2"
+},
+{
+  "Timestamp": "2025-06-15T20:29:07.8166485+03:00",
+  "Event": "Threat engaged: 91b283db-600b-42aa-a707-95c41c61c673"
+},
+{
+  "Timestamp": "2025-06-15T20:29:13.0212927+03:00",
+  "Event": "Threat engaged: f52e1d12-52c6-40be-a882-56f22c51cd60"
+},
+{
+  "Timestamp": "2025-06-15T20:29:14.0067591+03:00",
+  "Event": "Threat engaged: bc0ec93e-d1dd-40c3-aa6c-b3da18ab6e93"
+},
+{
+  "Timestamp": "2025-06-15T20:29:17.4125482+03:00",
+  "Event": "Threat engaged: 6ebca6af-5e3d-4456-b298-5905ba5b4568"
+},
+{
+  "Timestamp": "2025-06-15T20:29:22.0705662+03:00",
+  "Event": "Threat engaged: b832d81f-b051-48c2-9d9d-eb8fa04297d9"
+},
+{
+  "Timestamp": "2025-06-15T21:14:08.8421670+03:00",
+  "Event": "Threat engaged: 29344206-e6e6-42de-86af-abeb1d0cf7ba - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:12.5334075+03:00",
+  "Event": "Threat engaged: 94425b0a-bf81-486e-ad13-6ea3114244cf - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:13.6297953+03:00",
+  "Event": "Threat engaged: ea54f319-5d32-470d-92d3-18a5dde21839 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:14:19.0921891+03:00",
+  "Event": "Threat engaged: 508654ad-868d-406c-9575-0806045270db - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:20.3873658+03:00",
+  "Event": "Threat engaged: efe82934-f435-4896-8a13-d788fad528e2 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:14:23.5953479+03:00",
+  "Event": "Threat engaged: e8f6706e-b8f2-4497-8de7-4583c03b506a - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:27.0180974+03:00",
+  "Event": "Threat engaged: ad1423b8-9026-487d-8929-f12cfc9fb833 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:30.2295371+03:00",
+  "Event": "Threat engaged: 9cddcd3b-5891-40fd-b3f9-7b812deabecf - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:14:33.8285068+03:00",
+  "Event": "Threat engaged: a6ebafbe-bfe4-43e6-90b3-b9b52aa17a56 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:14:35.1493853+03:00",
+  "Event": "Threat engaged: 2b856ff6-53a8-4ed2-93d7-4ca6fa09d1d3 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:14:38.7509450+03:00",
+  "Event": "Threat engaged: 4041e0c9-f1f1-4a22-802e-ada6771d516b - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:19:51.0581043+03:00",
+  "Event": "Threat engaged: 3fb42493-72ae-4e23-8a77-66a07b9ea2bd - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:19:54.5992766+03:00",
+  "Event": "Threat engaged: ecbd9ce1-2d76-4458-9a88-f488e51ff1d6 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:19:58.4963727+03:00",
+  "Event": "Threat engaged: 53bd5627-0f96-4deb-afa6-d21fb17414c4 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:00.7801961+03:00",
+  "Event": "Threat engaged: d1ba9423-ac69-4613-9ff7-b94d39adbd28 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:20:03.3961016+03:00",
+  "Event": "Threat engaged: 61bae527-da52-499f-b708-0b1bbd7393ed - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:07.1247641+03:00",
+  "Event": "Threat engaged: bc148198-c195-4a8d-aa16-6e749a95862e - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:10.6236290+03:00",
+  "Event": "Threat engaged: 11307dff-0cbe-4879-9df5-6b66b81eb3e2 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:20:13.5535267+03:00",
+  "Event": "Threat engaged: 920be634-93b5-4ce8-9679-4ae173911513 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:20:15.3253242+03:00",
+  "Event": "Threat engaged: ae9410c5-34eb-4150-ae88-73dca7a3964a - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:19.0198129+03:00",
+  "Event": "Threat engaged: 9e79e80b-02dc-46f3-9122-fa7a6fa370f3 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:23.7496533+03:00",
+  "Event": "Threat engaged: 59fb02ed-e17c-41db-ad24-730eaa96442b - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:25.5392441+03:00",
+  "Event": "Threat engaged: 534025b5-f49b-457d-ba27-6f65d323d6d5 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:27.8920116+03:00",
+  "Event": "Threat engaged: 135e8d95-1c02-4127-9904-1ab8173a7187 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:20:32.5865884+03:00",
+  "Event": "Threat engaged: 2723ba39-d01a-43f9-8912-43627c4680b4 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:20:35.0885755+03:00",
+  "Event": "Threat engaged: b759152a-c236-4f73-a3e6-2c8666e54a6d - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:19.4033044+03:00",
+  "Event": "Threat engaged: 4c2da562-bcac-441a-9df1-c2ea19f2b232 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:23.7225965+03:00",
+  "Event": "Threat engaged: 283fa742-3adc-4fb6-9f55-0f740c2e9abc - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:27.1634194+03:00",
+  "Event": "Threat engaged: d4f5e55d-0dd0-4fe2-9416-defa2cbce41b - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:29.3759688+03:00",
+  "Event": "Threat engaged: 5fa7b8a2-4fee-4597-b192-97064b0bfe57 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:31.0965773+03:00",
+  "Event": "Threat engaged: 59554808-4000-4567-a293-b80bb3cdd699 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:24:35.9091882+03:00",
+  "Event": "Threat engaged: e20585bf-6d9f-4489-8112-65f909488ca9 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:24:38.7249544+03:00",
+  "Event": "Threat engaged: 194b6805-67a9-4111-b00c-7062afa1d0ee - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:24:39.9119969+03:00",
+  "Event": "Threat engaged: a20098dd-d91e-4a0f-b3b8-77e5c842d888 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:24:44.8603527+03:00",
+  "Event": "Threat engaged: 144d48a9-09bd-4c97-8039-3841ff4df2ca - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:24:46.5658151+03:00",
+  "Event": "Threat engaged: ee4fb26e-09b0-422a-bff9-abd91ece08c5 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:24:48.7357183+03:00",
+  "Event": "Threat engaged: c974b58d-3983-4002-9638-91a177cf690d - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:39:21.3862329+03:00",
+  "Event": "Threat engaged: a6b15511-4844-46ff-8db3-fc7ee873bd74 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:39:23.1694266+03:00",
+  "Event": "Threat engaged: 502c2a3e-0165-4354-8d76-507b47403b7f - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:39:25.2800959+03:00",
+  "Event": "Threat engaged: d675dd20-951c-46b4-a2f4-9f79e12d6380 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:39:28.7050553+03:00",
+  "Event": "Threat engaged: e371346f-967f-4314-8c7b-e746cdc583a9 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:39:34.0912700+03:00",
+  "Event": "Threat engaged: 4c2426d9-3582-4bf9-8830-d5808508b5df - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:39:36.6108407+03:00",
+  "Event": "Threat engaged: 6ee86bc4-b22c-41b0-95e4-483498b7fd82 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:42:29.7919794+03:00",
+  "Event": "Threat engaged: 4c718258-4877-4c1b-a0bb-92245173accc - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:42:35.2850169+03:00",
+  "Event": "Threat engaged: d0945e2d-5d4d-4a7f-8842-458b260d27c0 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:42:36.2999639+03:00",
+  "Event": "Threat engaged: 694e6c05-6421-495a-be41-ba691e476d35 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:42:40.9094619+03:00",
+  "Event": "Threat engaged: 6b580dfd-4102-456b-9a6c-af60a6cec02d - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:44:37.2433068+03:00",
+  "Event": "Threat engaged: d4af89cb-74a3-4785-af04-c9587f099984 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T21:44:40.1953231+03:00",
+  "Event": "Threat engaged: 5aff3740-fb45-43ad-a27f-dcbf0c831631 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:44:43.0896414+03:00",
+  "Event": "Threat engaged: 2768f9fd-1ffb-4d4c-a061-b1d426bcca60 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T21:44:46.9085882+03:00",
+  "Event": "Threat engaged: a7d43cd8-f151-4927-b995-5e2315cf5526 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:00:14.6894953+03:00",
+  "Event": "Threat engaged: 1cab4b6d-2645-4077-9d51-5e869864adc3 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T22:01:38.8413020+03:00",
+  "Event": "Threat engaged: c836159a-c8c7-4022-a3ef-fdbe129fbf1b - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:01:41.8630241+03:00",
+  "Event": "Threat engaged: 665d6032-45fb-4770-9019-df652620c107 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:04:43.9618311+03:00",
+  "Event": "Threat engaged: 19b9266b-d3dc-4664-8a7a-093578be48f8 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:04:48.1352218+03:00",
+  "Event": "Threat engaged: a19946d3-f4ec-46eb-96c5-629199965a96 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:04:50.3626405+03:00",
+  "Event": "Threat engaged: 8a0f8ef8-7655-4eae-af8d-75d567d74470 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T22:04:53.7679562+03:00",
+  "Event": "Threat engaged: 35ee88d0-1cc3-44f1-8b20-d10bdfdf69ed - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:04:56.1808781+03:00",
+  "Event": "Threat engaged: 6f349010-4739-465e-a531-88d0d4572102 - Missile"
+},
+{
+  "Timestamp": "2025-06-15T22:16:23.6415926+03:00",
+  "Event": "Threat engaged: 09b21c11-6f3e-41b9-8801-b7784c9bcf42 - Drone"
+},
+{
+  "Timestamp": "2025-06-15T22:16:27.5313094+03:00",
+  "Event": "Threat engaged: 0ee21acc-7016-496c-9fe1-59f478ada0fd - Missile"
+},
+{
+  "Timestamp": "2025-06-15T22:16:30.2757182+03:00",
+  "Event": "Threat engaged: ec1d47b8-3c2f-44d1-9dda-8044db902b3f - Drone"
+},

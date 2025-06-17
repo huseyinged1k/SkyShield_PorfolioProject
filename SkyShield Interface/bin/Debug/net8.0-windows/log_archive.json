@@ -283,3 +283,67 @@
   "Timestamp": "2025-06-15T22:16:30.2757182+03:00",
   "Event": "Threat engaged: ec1d47b8-3c2f-44d1-9dda-8044db902b3f - Drone"
 },
+{
+  "time": null,
+  "event": "Threat engaged: f12ba751-d471-48cf-9d35-a1c7e8c5c572 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 8c242411-a7ca-4ff7-a0f4-21b31b201cbe - Missile"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 0b6161dd-93a5-4bc0-b6ed-abc803e01870 - Missile"
+},
+{
+  "time": null,
+  "event": "Threat engaged: b45373e2-e513-4c54-a52a-a67b68a96639 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 96a62eef-6751-4d8e-a9ce-1cb9c88ab045 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 9a968098-2c7c-41c2-9029-5c43b07d27e4 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: b3fe570a-ed20-4f3d-b64b-03d9ffbd7288 - Missile"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 56c1e362-4b10-4fbb-924c-e64b755e6462 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 1157f1cd-1f52-401c-8016-cb8331a6f4a3 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: a2c56ade-f79c-4d7f-be34-7e6abd181763 - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: a383aea8-8ed3-4849-83e4-09c7cb0a941f - Drone"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 77615ee7-2273-457d-b268-a25769a32b8c - Missile"
+},
+{
+  "time": null,
+  "event": "Threat engaged: 4ebf4d16-44cc-4bb2-ae16-a03e555d2b58 - Drone"
+},
+{
+  "time": "2025-06-17T13:33:54.2684446+03:00",
+  "event": "Threat engaged: 4099afad-8bd0-449c-a9ca-cbf2a98ac8e1 - Missile"
+},
+{
+  "time": "2025-06-17T13:33:57.2755819+03:00",
+  "event": "Threat engaged: e093869f-49af-4251-9058-38806b9021c1 - Missile"
+},
+{
+  "time": "2025-06-17T13:34:00.1411769+03:00",
+  "event": "Threat engaged: 5ff9b29a-5a7a-4d2b-a969-1159f68e9b15 - Missile"
+},
