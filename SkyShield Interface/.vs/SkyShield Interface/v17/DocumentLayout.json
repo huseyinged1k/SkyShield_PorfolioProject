@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\services\\videoplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:services\\videoplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\services\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:services\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\services\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:services\\logarchiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\services\\videoplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:services\\videoplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|e:\\projeler\\github\\skyshield_porfolioproject\\skyshield interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60DBA5CB-8A87-4191-BB59-2D2C42745951}|SkyShield Interface.csproj|E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -62,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T16:26:04.918Z",
               "EditorCaption": ""
@@ -97,19 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LogArchiveService.cs",
               "DocumentMoniker": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\Services\\LogArchiveService.cs",
               "RelativeDocumentMoniker": "Services\\LogArchiveService.cs",
               "ToolTip": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\Services\\LogArchiveService.cs",
               "RelativeToolTip": "Services\\LogArchiveService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T17:00:48.12Z"
+              "WhenOpened": "2025-06-15T17:00:48.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -121,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VideoPlayerService.cs",
               "DocumentMoniker": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\Services\\VideoPlayerService.cs",
               "RelativeDocumentMoniker": "Services\\VideoPlayerService.cs",
               "ToolTip": "E:\\Projeler\\GitHub\\SkyShield_PorfolioProject\\SkyShield Interface\\Services\\VideoPlayerService.cs",
               "RelativeToolTip": "Services\\VideoPlayerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T16:32:13.429Z",
               "EditorCaption": ""

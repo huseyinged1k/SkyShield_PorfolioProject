@@ -60,3 +60,4 @@ E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.
 E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.pdb
 E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.genruntimeconfig.cache
 E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\ref\SkyShield Interface.dll
+E:\Projeler\GitHub\SkyShield_PorfolioProject\SkyShield Interface\obj\Debug\net8.0-windows\SkyShield Interface.sourcelink.json
